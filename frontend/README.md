@@ -1,4 +1,4 @@
-# frontend
+## frontend
 
 > My sensational Nuxt.js project
 
